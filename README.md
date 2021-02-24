@@ -9,3 +9,5 @@
 Okay Sudah nih Farid awkwk
 
 ## Bayu Oktak
+- Membuat Aplikasi SMART
+- Belajar git command
